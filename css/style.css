@@ -1,3 +1,4 @@
+/*header start*/
 header{
 	background-image: url('../images/bgimage.jpg');
 	background-position: top center;
@@ -49,3 +50,4 @@ header{
 	text-decoration: none;
 	color: gray;
 }
+/*header end*/

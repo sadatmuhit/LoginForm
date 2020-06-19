@@ -1,4 +1,4 @@
-# project-1
+# Login Form
 A simple login form designed with html, css and bootstrap.
 
-https://sadatmuhit.github.io/project-1/
+https://sadatmuhit.github.io/LoginForm/

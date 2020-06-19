@@ -3,7 +3,7 @@ header{
 	background-image: url('../images/bgimage.jpg');
 	background-position: top center;
 	background-size: cover;
-	height: 97vh;
+	min-height: 97vh;
 	position: relative;
 }
 .login_box{
